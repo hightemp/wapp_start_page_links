@@ -1,0 +1,89 @@
+list:
+- name: Google long long long long title
+  description: "tetsagas gf\r\nsdfsdgfsd gsdf\r\ndsfgdsfg"
+  image: ""
+  url: https://www.google.com
+- name: Facebook
+  description: Social media platform
+  image: ""
+  url: https://www.facebook.com
+- name: GitHub
+  description: Web-based platform for version control and collaboration
+  image: ""
+  url: https://github.com
+- name: Twitter
+  description: Social media and microblogging platform
+  image: ""
+  url: https://twitter.com
+- name: YouTube
+  description: Video sharing platform
+  image: ""
+  url: https://www.youtube.com
+- name: LinkedIn
+  description: Professional networking platform
+  image: ""
+  url: https://www.linkedin.com
+- name: Reddit
+  description: Social news aggregation and discussion website
+  image: ""
+  url: https://www.reddit.com
+- name: Wikipedia
+  description: Free online encyclopedia
+  image: ""
+  url: https://www.wikipedia.org
+- name: Amazon
+  description: E-commerce and cloud computing company
+  image: ""
+  url: https://www.amazon.com
+- name: Netflix
+  description: Streaming service for movies and TV shows
+  image: ""
+  url: https://www.netflix.com
+- name: Instagram
+  description: Photo and video sharing social network
+  image: ""
+  url: https://www.instagram.com
+- name: Stack Overflow
+  description: Q&A community for programmers
+  image: ""
+  url: https://stackoverflow.com
+- name: Microsoft
+  description: Technology company
+  image: ""
+  url: https://www.microsoft.com
+- name: Spotify
+  description: Music streaming service
+  image: ""
+  url: https://www.spotify.com
+- name: Udacity
+  description: Online education platform
+  image: ""
+  url: https://www.udacity.com
+- name: Airbnb
+  description: Online marketplace for lodging and travel experiences
+  image: ""
+  url: https://www.airbnb.com
+- name: Slack
+  description: Collaboration hub for work
+  image: ""
+  url: https://slack.com
+- name: WhatsApp
+  description: Messaging app for smartphones
+  image: ""
+  url: https://www.whatsapp.com
+- name: Adobe
+  description: Software company for creative solutions
+  image: ""
+  url: https://www.adobe.com
+- name: Mozilla
+  description: Non-profit organization for an open and accessible internet
+  image: ""
+  url: https://www.mozilla.org
+settings:
+  theme: default
+  themes:
+  - name: default
+    url: ""
+  - name: dark
+    url: cdn.examples.com/dark.css
+  openlinksinnewwindow: true
