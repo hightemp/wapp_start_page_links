@@ -2,7 +2,7 @@
 
 This is a simple web application written in Go using the Fiber web framework. The purpose of this application is to provide a customizable start page with links to your favorite websites.
 
-
+![2024-01-13_18-30.png](screenshots%2F2024-01-13_18-30.png)
 
 ## Getting Started
 
